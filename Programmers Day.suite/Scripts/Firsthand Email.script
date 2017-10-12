@@ -1,0 +1,25 @@
+﻿//Navigates to the Volunteer section of the Firsthand website and writes an email to get more information about organizing an individual fundraising event.
+
+//cerner_2^5_2017
+
+Connect "tiff"
+
+TypeText windowsKey,"r"
+TypeText "chrome.exe"
+TypeText enterKey
+Wait 1
+TypeText controlKey, "t"
+TypeText "//www.firsthandfoundation.org/"
+TypeText enterKey
+
+Click (text: "Volunteer")
+
+Click (Text: "volunteer program manager")
+
+wait until imagefound(text: "send")
+
+TypeText "More information on Individual Fundraising Event"
+
+TypeText tabKey
+
+TypeText "Hello", EnterKey, EnterKey, "I am interested in organizing a Firsthand fundraising event with my group. Could I please get some more information on how to get this event organized?", EnterKey, EnterKey, "Thanks!", EnterKey
