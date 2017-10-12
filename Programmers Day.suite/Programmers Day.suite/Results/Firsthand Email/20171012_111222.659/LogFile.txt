@@ -1,0 +1,12 @@
+﻿2017-10-12 11:12:22.674 -0500	START		Running Firsthand Volunteer Email.script
+2017-10-12 11:12:22.815 -0500	connect		pod workstation:(null)	5	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:22.863 -0500	typetext		[windowsKey]r	7	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:23.896 -0500	typetext		chrome.exe	8	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:24.616 -0500	typetext		[enter]	9	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:25.696 -0500	typetext		[controlKey]t	11	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:27.324 -0500	typetext		//www.firsthandfoundation.org/	12	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:28.061 -0500	typetext		[enter]	13	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:39.969 -0500	click	(TEXT:"Volunteer")	at (1151, 213)	15	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:57.265 -0500	click	(TEXT:"volunteer program manager")	at (997, 880)	17	on_firsthand_volunteer_email	Firsthand Volunteer Email.script
+2017-10-12 11:12:57.296 -0500	EndTestCase		(Duration:"34.622", Errors:"1", Exceptions:"0", StartTime:"2017-10-12 11:12:22 -0500", Successes:"0", TestCase:"Firsthand Volunteer Email.script", Warnings:"0")
+2017-10-12 11:12:58.683 -0500	FAILURE	Screen_Error.png	Invalid Wait Until Value of WAIT UNTIL expression must be either a boolean (true/false) or a date/time value (got '(text:"send")'). -- Execution Time 0:00:35 Firsthand Volunteer Email.script

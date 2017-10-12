@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Firsthand Email">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-10-12 11:09:57 -0500</FirstRun>
+  <LastRun>2017-10-12 13:29:17 -0500</LastRun>
+  <TotalTimeOnSuccess>69.391000</TotalTimeOnSuccess>
+ </script>
+</statistics>

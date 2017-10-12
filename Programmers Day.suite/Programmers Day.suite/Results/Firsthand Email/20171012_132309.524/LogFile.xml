@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Firsthand Email.script" package="Programmers Day.suite" timestamp="2017-10-12 13:23:09.524 -0500"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2017-10-12 13:23:09.524 -0500"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Firsthand Email.script" assertions="1" successes="0" errors="1" time="111.543">
+  </testcase>
+ </testsuite>
+</testsuites>

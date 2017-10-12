@@ -1,0 +1,15 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-10-12 11:09:57.222 -0500,"Failure",0:00:05,1,0,1,"20171012_110957.222/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Volunteer",0
+2017-10-12 11:10:56.737 -0500,"Failure",0:00:49,1,0,0,"20171012_111056.737/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'waituntil'",0
+2017-10-12 11:12:22.659 -0500,"Failure",0:00:34,1,0,0,"20171012_111222.659/LogFile.txt","","Invalid Wait Until -- Value of WAIT UNTIL expression must be either a boolean (true/false) or a date/time value (got '(text:""send"")').",0
+2017-10-12 13:09:29.330 -0500,"Running",0:00:00,0,0,0,"20171012_130929.330/LogFile.txt","","",0
+2017-10-12 13:11:19.049 -0500,"Running",0:00:00,0,0,0,"20171012_131119.049/LogFile.txt","","",0
+2017-10-12 13:13:27.441 -0500,"Running",0:00:00,0,0,0,"20171012_131327.441/LogFile.txt","","",0
+2017-10-12 13:16:07.616 -0500,"Failure",0:00:38,1,0,0,"20171012_131607.616/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(20,0)' and '(text:""Subject"")'",0
+2017-10-12 13:17:21.239 -0500,"Failure",0:00:32,1,0,0,"20171012_131721.239/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(20,0)' and '(text:""Subject"")'",0
+2017-10-12 13:18:14.193 -0500,"Running",0:00:00,0,0,0,"20171012_131814.193/LogFile.txt","","",0
+2017-10-12 13:23:09.524 -0500,"Running",0:00:00,0,0,0,"20171012_132309.524/LogFile.txt","","",0
+2017-10-12 13:27:22.088 -0500,"Running",0:00:00,0,0,0,"20171012_132722.088/LogFile.txt","","",0
+2017-10-12 13:27:42.175 -0500,"Running",0:00:00,0,0,0,"20171012_132742.175/LogFile.txt","","",0
+2017-10-12 13:28:13.941 -0500,"Running",0:00:00,0,0,0,"20171012_132813.941/LogFile.txt","","",0
+2017-10-12 13:29:17.981 -0500,"Success",0:01:09,0,0,0,"20171012_132917.981/LogFile.txt","","",1
